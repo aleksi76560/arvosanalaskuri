@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'SF Pro';
+    src: url(SF-Pro.ttf);
+}
+
+body {
+    background-image:url('https://i.ibb.co/vw0R3PV/stars3.gif');
+    background-size: auto;
+    color: white;
+    font-family: 'SF Pro';
+    font-size: 175%;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+input {
+    zoom: 175%;
+    width: 50px;
+}
+
+button {
+    zoom: 175%;
+    width: 50px;
+    background-color: black;
+    color: white;
+    border: white solid 1px;
+}
+
+#bottomtext {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 10px;
+    position: fixed;
+    bottom: 25px;
+    width: 100%;
+}
